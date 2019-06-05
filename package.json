@@ -1,9 +1,19 @@
 {
-  "name": "scroll-length-progress",
-  "version": "1.0.1",
-  "description": "A tiny script to track scrolling progress in real time",
-  "main": "index.js",
-  "repository": "https://github.com/TimBeard/scroll-length-progress.git",
-  "author": "Tim Beard",
-  "license": "MIT"
+    "name": "scroll-length-progress",
+    "version": "1.0.1",
+    "description": "A tiny script to track scrolling progress in real time",
+    "keywords": [
+        "scroll",
+        "scrolling",
+        "progress",
+        "progression",
+        "es6",
+        "webpack",
+        "frontend",
+        "helper"
+    ],
+    "main": "index.js",
+    "repository": "https://github.com/TimBeard/scroll-length-progress.git",
+    "author": "Tim Beard",
+    "license": "MIT"
 }
