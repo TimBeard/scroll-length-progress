@@ -9,6 +9,14 @@ const scroll = {
         return scrollHeight - innerHeight
     },
 
+    // Compute number of page (full screen height) scrolled
+    get pages() {
+
+      const { scrollY, innerHeight } = window
+
+      return scrollY / innerHeight
+    },
+
     // Compute scrolling progress
     get progress() {
 
